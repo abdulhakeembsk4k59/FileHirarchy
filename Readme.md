@@ -1,4 +1,4 @@
-<h1>FileName Reader Challenge<h1>
+<h1>FileName Reader Challenge</h1>
 
 challege: - we have some file names "File1", " File2", "  File3", " File4", "File5" .
 suppouse "File1" doesn't have spaces before it is an Parent File
