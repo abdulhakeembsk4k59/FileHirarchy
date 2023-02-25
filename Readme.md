@@ -18,13 +18,14 @@ File5
 so create a java code to find who is the file's parent is  in the given format
 
 Required Output Format :
-FileName        ParentFIle
-========        ==========
-File1               Null
-FIle2               FIle1
-FIle3               FIle2
-File 4              File1
-File 5              Null
+
+FileName   ParentFile
+========== ==========
+File5      null
+File4      File1
+File3      File2
+File2      File1
+File1      null
 
 
 
