@@ -1,0 +1,11 @@
+PS C:\Users\skaha\OneDrive\Desktop\JavaBatch1\FIleHandling\FileHirarchy>  & 'C:\Program Files\Java\jdk1.8.0_144\bin\java.exe' '-cp' 'C:\Use
+rs\skaha\AppData\Roaming\Code\User\workspaceStorage\b38a8104f09882d0f515b161ad1ed893\redhat.java\jdt_ws\FileHirarchy_d3e52898\bin' 'FileNam
+eChallenge' 
+FileName   ParentFile
+========== ==========
+File5      null
+File4      File1
+File3      File2
+File2      File1
+File1      null
+PS C:\Users\skaha\OneDrive\Desktop\JavaBatch1\FIleHandling\FileHirarchy>
