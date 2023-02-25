@@ -21,13 +21,13 @@ so create a java code to find who is the file's parent is  in the given format
 
 Required Output Format :
 
-FileName   ParentFile<br>
-========== ==========<br>
-File5      null<br>
-File4      File1<br>
-File3      File2<br>
-File2      File1<br>
-File1      null<br>
+FileName   &nbsp; ParentFile<br>
+========== &nbsp; ==========<br>
+File5 &nbsp; &nbsp; &nbsp; &nbsp;    null<br>
+File4 &nbsp; &nbsp; &nbsp; &nbsp;     File1<br>
+File3 &nbsp; &nbsp; &nbsp; &nbsp;     File2<br>
+File2 &nbsp; &nbsp; &nbsp; &nbsp;     File1<br>
+File1 &nbsp; &nbsp; &nbsp; &nbsp;     null<br>
 
 
 
