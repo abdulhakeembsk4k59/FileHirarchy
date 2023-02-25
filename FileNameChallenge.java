@@ -15,7 +15,12 @@ class FileNameChallenge{
             fileNames[i] = read.nextLine();
         }
 
-        // Create a map to store the parent-child relationships
+        strPass(fileNames);
+
+        
+    }
+
+    public static void strPass(String [] fileNames){
         Map<String, String> fileMap = new HashMap<>();
         fileMap.put("File1", null);
 
