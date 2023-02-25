@@ -11,11 +11,11 @@ We have to take input from inputFile.txt
 so create a inputFile.txt file
 and add this text in it :-
 
-File1 
- File2 
-  File3
- File4
-File5
+File1 <br>
+ &nbsp;File2 <br>
+  &nbsp;&nbsp;File3 <br>
+ &nbsp;File4 <br>
+File5 <br>
 
 so create a java code to find who is the file's parent is  in the given format
 
